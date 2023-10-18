@@ -1,0 +1,15 @@
+.drum-pad{
+    background-color:ghostwhite ;
+    color: black;
+    width:30%;
+    margin: 2.5%;
+    height: 8vh;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+   
+}
+.keyLabel{
+  margin-top: 8%;
+  
+}
